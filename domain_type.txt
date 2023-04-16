@@ -1,0 +1,5 @@
+ExtractResult(subdomain='', domain='domain', suffix='com')
+ExtractResult(subdomain='', domain='yahoo', suffix='co.uk')
+ExtractResult(subdomain='', domain='domain', suffix='com.au')
+ExtractResult(subdomain='hung', domain='name', suffix='com')
+ExtractResult(subdomain='hunght1890', domain='github', suffix='io')
